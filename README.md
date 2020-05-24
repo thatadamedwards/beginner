@@ -1,5 +1,7 @@
 # beginner
 
+This is the coded solution for the Vue Mastery course: [Intro to Vue.js](https://www.vuemastery.com/courses/intro-to-vue-js)
+
 ## Project setup
 ```
 npm install
